@@ -1,0 +1,23 @@
+nav {
+  background-color: red;
+}
+body {
+  color: blue;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+.special {
+  color: purple;
+}
+a {
+  color: purple;
+}
+.fa-envelope {
+  color: #000;
+}
+.svg-image {
+  width: 200px;
+}
